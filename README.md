@@ -1,1 +1,1 @@
-This is the repository for the guide to using Teracopy in macOs
+This is the repository for the guide to using Teracopy in macOS
